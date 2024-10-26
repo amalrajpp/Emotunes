@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199573184502",
+    "project_id": "therapy-f1bf2",
+    "storage_bucket": "therapy-f1bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199573184502:android:f2d1b81e43b3c9c01731d7",
+        "android_client_info": {
+          "package_name": "com.example.therapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199573184502-batv1009k045igip5ffjo0lk8jd694lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLD-25cpvj-g7Ju9E36Bou9lw4Lw3werw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199573184502-batv1009k045igip5ffjo0lk8jd694lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
